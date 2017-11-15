@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">DiabetesSimples</string>
+    <string name="action_settings">Settings</string>
+    <string name="lblValor">Valor: </string>
+    <string name="lblTipoMedida">Tipo Medida: </string>
+    <string name="lblDataMedida">Data Medida: </string>
+    <string name="lblTipoRefeicao">Tipo Refeição: </string>
+    <string name="lblStatus">Status </string>
+    <string name="btnRegistrar">Adicionar</string>
+    <string name="btnNova">Nova</string>
+    <string name="btnListar">Listar</string>
+    <string name="btnConfigurar">Configurar</string>
+    <string name="btnDataMedida">Data</string>
+
+    <string name="excluir">Excluir</string>
+    <string name="alterar">Alterar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="opcoes">Opções</string>
+    <string name="conf_excluir">Deseja Excluir?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+
+    <string name="msg_excluido">Excluído com Sucesso</string>
+    <string name="msg_alterado">Alterado com Sucesso</string>
+    <string name="msg_erro_excluido">Ocorreu um erro ao tentar exlcuir</string>
+    <string name="msg_erro_alterado">Ocorreu um erro ao tentar alterar</string>
+
+    <string name="msg_erro_data">Selecione a data da medição</string>
+    <string name="msg_erro_valor">Entre com um valor para a sua medida</string>
+    <string name="title_activity_lista_tipo_medida">Configurar</string>
+    <string name="descricao">Descrição</string>
+    <string name="valorIdeal">Valor ideal</string>
+    <string name="valorOtimo">Valor ótimo</string>
+    <string name="salvar">Salvar</string>
+    <string name="tipoMedida">Tipo de Medida</string>
+
+
+</resources>
